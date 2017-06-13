@@ -1,0 +1,10 @@
+C:\Users\Advertising2\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClassLibrary1\obj\Release\GameResources.csprojResolveAssemblyReference.cache
+C:\Users\Advertising2\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClassLibrary1\bin\Release\DungeonFightResources.dll
+C:\Users\Advertising2\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClassLibrary1\bin\Release\DungeonFightResources.pdb
+C:\Users\Advertising2\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClassLibrary1\obj\Release\DungeonFightResources.dll
+C:\Users\Advertising2\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClassLibrary1\obj\Release\DungeonFightResources.pdb
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\ConsoleApplication1\ClassLibrary1\bin\Release\DungeonFightResources.dll
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\ConsoleApplication1\ClassLibrary1\bin\Release\DungeonFightResources.pdb
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\ConsoleApplication1\ClassLibrary1\obj\Release\GameResources.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\ConsoleApplication1\ClassLibrary1\obj\Release\DungeonFightResources.dll
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\ConsoleApplication1\ClassLibrary1\obj\Release\DungeonFightResources.pdb

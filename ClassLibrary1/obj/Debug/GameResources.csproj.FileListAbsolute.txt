@@ -1,0 +1,5 @@
+C:\Users\Advertising2\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClassLibrary1\obj\Debug\GameResources.csprojResolveAssemblyReference.cache
+C:\Users\Advertising2\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClassLibrary1\bin\Debug\DungeonFightResources.dll
+C:\Users\Advertising2\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClassLibrary1\bin\Debug\DungeonFightResources.pdb
+C:\Users\Advertising2\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClassLibrary1\obj\Debug\DungeonFightResources.dll
+C:\Users\Advertising2\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClassLibrary1\obj\Debug\DungeonFightResources.pdb
